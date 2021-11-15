@@ -1,0 +1,10 @@
+.MApp-footer {
+    background-color: #282c34;
+    height: 5vh;
+    color: white;
+    font-size: calc(10px + 2vmin);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
