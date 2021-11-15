@@ -1,0 +1,30 @@
+.MApp-header {
+  background-color: #282c34;
+  height: 10vh;
+  color: white;
+  font-size: calc(10px + 2vmin);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.popup-title {
+  font-weight: 700;
+}
+.popup-text {
+  font-weight: 400
+}
+.markerIcon {
+  font-weight: 700;
+  font-size: 12px;
+}
+.ball {
+  border-radius: 50%;
+  background-color: #D0E2FF;
+  line-height: 15px;
+  text-align: center;
+}
+.markerSize {
+  width: 15px;
+  height: 15px;
+}
